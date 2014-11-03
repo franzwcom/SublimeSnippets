@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+
+
+/* bootstrap media queries */
+/**/
+
+
+@-ms-viewport{ width:device-width;}
+@viewport{ width:device-width;}
+
+@media screen and (min-width: 1200px){}
+@media screen and (min-width: 992px){}
+@media screen and (min-width: 1024px){}
+@media screen and (min-width: 992px){}
+@media screen and (min-width: 768px){}
+@media screen and (min-width: 600px){}
+@media screen and (min-width: 480px){}
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {  }
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) {  }
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {  }
+
+
+
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bmq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
