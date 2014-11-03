@@ -1,4 +1,13 @@
-SublimeSnippets
+Sublime Text 3 Snippets
 ===============
 
 A short Collection of Sublime Text 3 Snippets
+
+
+- C Sharp
+- CSS
+- HTML
+- JS
+- MIX
+- SCSS
+- PHP

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+
+ 
+<?php define('WP_USE_THEMES', false); get_header(); ?>
+
+
+
+<?php get_footer(); ?>
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wpheadrs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
