@@ -6,7 +6,7 @@
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	 <tabTrigger>jscomv2</tabTrigger>
-	 <description>second form comments</description>
+	 <description>JS Comment v2 section Separator</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!--<scope>source.JavaScript</scope> -->
 </snippet>

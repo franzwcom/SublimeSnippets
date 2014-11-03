@@ -1,24 +1,16 @@
 <snippet>
 	<content><![CDATA[
-
-
-
-
 //The loop starts here:
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-
 
 
 <?php endwhile; else: ?>
 <p><?php _e('Sorry, no posts matched your criteria.'); ?></p>
 <?php endif; ?>
-
-
-
-
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>wploop</tabTrigger>
+	<description>WP Loop</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

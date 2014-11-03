@@ -1,11 +1,6 @@
 <snippet>
 	<content><![CDATA[
 
-
-
-
-
-
 <div class="container">
 	<div class="row">
 		<h2 class="text-center">Contact Form</h2>
@@ -46,14 +41,6 @@
 		</div>
 	</div>
 </div>
-
-
-
-
-
-
-
-
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

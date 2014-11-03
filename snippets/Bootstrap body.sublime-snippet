@@ -2,9 +2,6 @@
 	<content><![CDATA[
 
 
-
-
-
 <!-- Begin Body -->
 <div class="container">
 	<div class="row">
@@ -119,25 +116,10 @@
 <!-- end body template -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bbody</tabTrigger> 
+  <description>Bootstrap body section with side menu nav</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

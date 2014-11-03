@@ -20,6 +20,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>csswpnote</tabTrigger>
+	<description>WP CSS header</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
