@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-public function ${1:name}()
-{
-	$2
-}
+function ${1:name}()
+	{
+		$2
+	}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fnx</tabTrigger> 
