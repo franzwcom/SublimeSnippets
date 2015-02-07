@@ -8,6 +8,7 @@ A short Collection of Sublime Text 3 Snippets
 - CSS
 - HTML
 - JS
-- MIX
+  - Angular
+- MIX 
 - SCSS
 - PHP
