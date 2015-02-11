@@ -2,7 +2,7 @@
 	<content><![CDATA[
 
 /* ==========================================================================
-   separator :description
+   ${1:description} 
    ========================================================================== */
 
 ]]></content>
@@ -10,5 +10,5 @@
 	<tabTrigger>csscom</tabTrigger>
 	<description>CSS comment separator</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	 <scope>source.css</scope> 
 </snippet>

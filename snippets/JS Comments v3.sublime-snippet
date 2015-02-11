@@ -1,12 +1,10 @@
 <snippet>
 	<content><![CDATA[
-/*
- * ${1:description}
- */
+/*____________________ ${1:description} _____________________*/
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	 <tabTrigger>jscomv2</tabTrigger>
-	 <description>JS Comment v2 Short Section Separator</description>
+	 <tabTrigger>jscomv3</tabTrigger>
+	 <description>JS Comment v3 Inline Section Separator</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!--<scope>source.JavaScript</scope> -->
 </snippet>
