@@ -6,4 +6,5 @@
 ]]></content>
     <tabTrigger>selfjs</tabTrigger>
     <scope>source.js</scope>
+    <description>Immediately-Invoked Function Expression (IIFE)</description>
 </snippet>
