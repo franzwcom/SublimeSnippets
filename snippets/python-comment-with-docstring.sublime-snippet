@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+'''
+	${1:Description}
+--------------------------------------------------------
+'''
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>comment with docstring (avoid if)</tabTrigger>
+	<description>Python Comment v3</description>
+	<scope>source.python</scope>
+</snippet>

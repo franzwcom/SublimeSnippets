@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+##---------------------------------------------------
+## ${1:Description}
+##---------------------------------------------------
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>comment v1 Python</tabTrigger>
+	<description>Python Comment v1</description>
+	<scope>source.python</scope>
+</snippet>

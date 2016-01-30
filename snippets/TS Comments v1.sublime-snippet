@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/*
+|-----------------------------------------------------------
+| ${1:Description} 
+|-----------------------------------------------------------
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>tscom</tabTrigger> 
+	 <description>TS Comment v1 Section Separator</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ts</scope>
+</snippet>
